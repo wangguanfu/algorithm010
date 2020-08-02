@@ -105,11 +105,11 @@ def parent(self, p, i):
 
 
 
+![image-20200730203955532](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20200730203955532.png)
 
 
 
-
-
+![image-20200730204221700](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20200730204221700.png)
 
 
 
