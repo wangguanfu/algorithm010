@@ -2,13 +2,13 @@
 
 #### 递归
 
-![image-20200809200752351](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20200809200752351.png)
+![image-20200809200752351](C:\Users\admin\Desktop\算法与数据结构\algorithm010\Week09\image-20200809200752351.png)
 
 
 
 #### 分治：
 
-![image-20200809200859000](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20200809200859000.png)
+![image-20200809200859000](C:\Users\admin\Desktop\算法与数据结构\algorithm010\Week09\image-20200809200859000.png)
 
 
 
@@ -16,15 +16,15 @@
 
 分治 + 最优子结构   +  动态递推
 
-![image-20200809201232856](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20200809201232856.png)
+![image-20200809201232856](C:\Users\admin\Desktop\算法与数据结构\algorithm010\Week09\image-20200809201232856.png)
 
-![image-20200809201328231](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20200809201328231.png)
+![image-20200809201328231](C:\Users\admin\Desktop\算法与数据结构\algorithm010\Week09\image-20200809201328231.png)
 
 
 
 打家劫舍 + 加一个维度  
 
-![image-20200809224138886](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20200809224138886.png)
+![image-20200809224138886](C:\Users\admin\Desktop\算法与数据结构\algorithm010\Week09\image-20200809224138886.png)
 
 ## 参考链接
 
