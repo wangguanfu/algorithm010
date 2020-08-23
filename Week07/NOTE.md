@@ -117,6 +117,15 @@ def parent(self, p, i):
 
 
 
+![image-20200730204422810](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20200730204422810.png)
+
+
+
+![image-20200730204904292](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20200730204904292.png)
+
+
+
+****
 
 
 
@@ -130,20 +139,19 @@ def parent(self, p, i):
 
 
 
+## 参考链接
+
+- [布隆过滤器的原理和实现](https://www.cnblogs.com/cpselvis/p/6265825.html)
+- [使用布隆过滤器解决缓存击穿、垃圾邮件识别、集合判重](https://blog.csdn.net/tianyaleixiaowu/article/details/74721877)
+- [布隆过滤器 Python 代码示例](https://shimo.im/docs/UITYMj1eK88JCJTH)
+- [布隆过滤器 Python 实现示例](https://www.geeksforgeeks.org/bloom-filters-introduction-and-python-implementation/)
+- [高性能布隆过滤器 Python 实现示例](https://github.com/jhgg/pybloof)
+- [布隆过滤器 Java 实现示例 1](https://github.com/lovasoa/bloomfilter/blob/master/src/main/java/BloomFilter.java)
+- [布隆过滤器 Java 实现示例 2](https://github.com/Baqend/Orestes-Bloomfilter)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+![image-20200808151214124](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20200808151214124.png)
 
 
 
